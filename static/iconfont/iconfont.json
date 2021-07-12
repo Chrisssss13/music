@@ -1,0 +1,30 @@
+{
+  "id": "2667223",
+  "name": "m",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "236420",
+      "name": "MV",
+      "font_class": "mv",
+      "unicode": "e760",
+      "unicode_decimal": 59232
+    },
+    {
+      "icon_id": "19473545",
+      "name": "搜索--1",
+      "font_class": "icon-search",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "21263866",
+      "name": "播放",
+      "font_class": "yinleicon_huaban1fuben10",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}
